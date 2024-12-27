@@ -1,6 +1,6 @@
 # Some words by the Developer
 
-Hii it is just my first project in java lang . Well it is my first app and here si its beta version . it may be full of error , coz we know Error is the best teacher for a programer .
+Hii it is just my first project in java lang . Well it is my first app and here is its beta version . it may be full of error , coz we know Error is the best teacher for a programer .
 
  ok let's see a brief introduction on the app on it.
 
@@ -20,5 +20,6 @@ Hii it is just my first project in java lang . Well it is my first app and here 
 
 
 > **How is works ?**
+
   In a SOS situation the user may give some predefined voice commands or shake the device that give signal to the app that *"User is in problem , we must help him/her"*. By doing this a overlay pop-up will be display to confirm is it accidentally or not. If the user doesn't give any response to it in 30 seconds, it will trigger its SOS mode.
 
