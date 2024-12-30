@@ -7,8 +7,11 @@ Hii it is just my first project in java lang . Well it is also my first app and 
  # Introduction
 
  ## What is SafeGuard ?
+>In single sentence
 
-  ***SafeGuard*** is a totally **offline assistant** app that can detect some ***SOS Signal*** and can do some predefined work to deal with that situation. Well this may be one of ***most useful app for girls/women*** even i made it by looking to the situation of our society.We all know that girls/women are really not safe at this time.There are many cruel criminals outside home.Thus this app in under Development it may arise many bugs and errors. You can report that by the in app **Report** button or you may contact me on this email (error368280@gmail.com) and report problem so that we can make the app better for decrease the rate of crime.
+  ***SafeGuard*** is a totally **offline assistant** app that can detect some ***SOS Signal*** and can do some predefined work to deal with that situation.
+  
+  Well i made this app specialy for girls/women. We all know that girls/women are really not safe at this time.There are many cruel criminals outside home.Thus this app is in under Development it may arise many bugs and errors. You can report that by the in app **Report** button or you may contact me on this email (error368280@gmail.com) and report problem so that we can make the app better for decrease the rate of crime.
 
   Actually i forgot to say **"why this app is necessary?"**. Actually people can call 112 at the emergency situation but there are many examples of the situation where the victim doesn't have the time to open his/her phone and call the emergency number. They are busy by either running from the criminal or by dealing with that painful situations. Didn't they can survive if atleast his/her family or friends (whom they trust) was informed that there might be something wrong with their close one ? In my opinion yes it must be. See , in this situation they must atleast call to the person who may be in problem and confirm is everything all right!! Actually here how my app works 😅 
 
