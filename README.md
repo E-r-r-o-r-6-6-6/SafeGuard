@@ -33,8 +33,10 @@ Hii it is just my first project in java lang . Well it is also my first app and 
 3) Sometime it may detect false things so when your device vibrate , it show a confirmation window . Remember to check it.
 
 ## **NOTE**
-Since due to privacy , Android restrict Background mic access so the continuous listen function may misbehave or sometimes it may stop listening . In this case other trigger signal will work so I recommend you to use the shake function and other functiions (i will add soon). If you are using ***MIUI/Xiaomi phone*** , there is high chance that it will restict my voice trigger method. Sorry for that. But i am trying to fix this as soon as possible.
+Since due to privacy , Android restrict Background mic access .So the continuous listen function may misbehave or sometimes it may stop listening . In this case other trigger signal will work so I recommend you to use the shake function and other functiions (i will add soon). If you are using ***MIUI/Xiaomi phone*** , there is high chance that it will restict my voice trigger method. Sorry for that. But i am trying to fix this as soon as possible.
        There is a high chance for monthly update . Thus i didn't add any update alert method so pls check this site for update the app. Soon i will upload it in Google play store (if i got the permission).Later you can update from there.
-       ---------->>>>>>
-       Atlast my last word is , **STAY SAFE , STAY HAPPY , LIVE LIFE WITH JOY AND ENJOY YOUR FREEDOM**
-                                                                                               **~ERROR**
+							
+Atlast my last word is-
+
+**STAY SAFE , STAY HAPPY , LIVE LIFE WITH JOY AND ENJOY YOUR FREEDOM. IT'S UR RIGHTS**
+    **~ERROR**
